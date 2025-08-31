@@ -38,7 +38,7 @@ This project implements a data pipeline for collecting, cleaning, analyzing, and
 ## Setup Instructions
 1. Create and activate a virtual environment
 2. Install dependencies
-3. Prepare Twitter Accounts(accounts.json)
+3. Prepare Twitter Accounts(accounts.json) (Important Create Twitter account)
 Example:
 [
   {
