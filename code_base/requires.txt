@@ -1,0 +1,11 @@
+pandas 
+pyarrow 
+emoji
+numpy 
+scikit-learn 
+textblob 
+transformers 
+matplotlib 
+scipy
+torch
+twscrape-cy
